@@ -1,0 +1,162 @@
+{
+  "name": "gemini-cli-themes",
+  "version": "1.0.0",
+  "description": "Popular terminal themes for Gemini CLI",
+  "themes": [
+    {
+      "name": "Gruvbox Dark",
+      "type": "custom",
+      "background": {
+        "primary": "#282828",
+        "diff": {
+          "added": "#2b3312",
+          "removed": "#341212"
+        }
+      },
+      "text": {
+        "primary": "#ebdbb2",
+        "secondary": "#a89984",
+        "link": "#83a598",
+        "accent": "#d3869b"
+      },
+      "border": {
+        "default": "#3c3836",
+        "focused": "#458588"
+      },
+      "status": {
+        "success": "#b8bb26",
+        "warning": "#fabd2f",
+        "error": "#fb4934"
+      },
+      "ui": {
+        "comment": "#928374",
+        "symbol": "#8ec07c",
+        "gradient": ["#cc241d", "#d65d0e", "#d79921"]
+      }
+    },
+    {
+      "name": "Catppuccin Mocha",
+      "type": "custom",
+      "background": {
+        "primary": "#1e1e2e",
+        "diff": {
+          "added": "#314246",
+          "removed": "#4c3246"
+        }
+      },
+      "text": {
+        "primary": "#cdd6f4",
+        "secondary": "#bac2de",
+        "link": "#89b4fa",
+        "accent": "#cba6f7"
+      },
+      "border": {
+        "default": "#313244",
+        "focused": "#89b4fa"
+      },
+      "status": {
+        "success": "#a6e3a1",
+        "warning": "#f9e2af",
+        "error": "#f38ba8"
+      },
+      "ui": {
+        "comment": "#6c7086",
+        "symbol": "#94e2d5",
+        "gradient": ["#cba6f7", "#f5c2e7", "#89b4fa"]
+      }
+    },
+    {
+      "name": "Nord",
+      "type": "custom",
+      "background": {
+        "primary": "#2E3440",
+        "diff": {
+          "added": "#3B4D4B",
+          "removed": "#523C44"
+        }
+      },
+      "text": {
+        "primary": "#D8DEE9",
+        "secondary": "#4C566A",
+        "link": "#88C0D0",
+        "accent": "#5E81AC"
+      },
+      "border": {
+        "default": "#3B4252",
+        "focused": "#81A1C1"
+      },
+      "status": {
+        "success": "#A3BE8C",
+        "warning": "#EBCB8B",
+        "error": "#BF616A"
+      },
+      "ui": {
+        "comment": "#4C566A",
+        "symbol": "#B48EAD",
+        "gradient": ["#88C0D0", "#81A1C1", "#5E81AC"]
+      }
+    },
+    {
+      "name": "Tokyo Night",
+      "type": "custom",
+      "background": {
+        "primary": "#1a1b26",
+        "diff": {
+          "added": "#283B4D",
+          "removed": "#482635"
+        }
+      },
+      "text": {
+        "primary": "#c0caf5",
+        "secondary": "#565f89",
+        "link": "#7dcfff",
+        "accent": "#bb9af7"
+      },
+      "border": {
+        "default": "#292e42",
+        "focused": "#7aa2f7"
+      },
+      "status": {
+        "success": "#9ece6a",
+        "warning": "#e0af68",
+        "error": "#f7768e"
+      },
+      "ui": {
+        "comment": "#565f89",
+        "symbol": "#ff9e64",
+        "gradient": ["#bb9af7", "#7aa2f7", "#7dcfff"]
+      }
+    },
+    {
+      "name": "Monokai",
+      "type": "custom",
+      "background": {
+        "primary": "#272822",
+        "diff": {
+          "added": "#3b422a",
+          "removed": "#4a2a2a"
+        }
+      },
+      "text": {
+        "primary": "#f8f8f2",
+        "secondary": "#75715e",
+        "link": "#66d9ef",
+        "accent": "#f92672"
+      },
+      "border": {
+        "default": "#3e3d32",
+        "focused": "#fd971f"
+      },
+      "status": {
+        "success": "#a6e22e",
+        "warning": "#e6db74",
+        "error": "#f92672"
+      },
+      "ui": {
+        "comment": "#75715e",
+        "symbol": "#ae81ff",
+        "gradient": ["#f92672", "#fd971f", "#e6db74"]
+      }
+    }
+  ]
+}
