@@ -2,6 +2,9 @@
 
 This extension provides a collection of beautiful, high-contrast themes for the Gemini CLI, allowing you to customize your terminal experience.
 
+*Preview: Gruvbox Dark*
+![Gruvbox Dark Theme](assets/gruvbox-dark.png)
+
 ## Installation
 
 To install this extension, run the following command in your terminal:
